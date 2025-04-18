@@ -1,3 +1,5 @@
+package programminglogic;
+
 public class DifferenceCalculator {
     public static void main(String[] args){
         int firtAge = 13;

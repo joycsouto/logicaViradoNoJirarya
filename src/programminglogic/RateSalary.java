@@ -1,4 +1,4 @@
-package ProgrammingLogic;
+package programminglogic;
 
 import java.util.Scanner;
 
